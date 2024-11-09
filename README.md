@@ -1,4 +1,5 @@
---------------------------------------------- WhatsApp Chatbot -----------------------------------------------------------
+--------------------------------------------------- WhatsApp Chatbot -----------------------------------------------------
+
 This WhatsApp chatbot automates responses based on chat history, simulating a conversational agent named Arjun K. The bot is designed to operate on WhatsApp Web by interacting with the screen using pyautogui and processing messages with the Groq API.
 
 Features
